@@ -22,7 +22,7 @@ export default function RootLayout({
           <Link href="/">Home</Link>
           <Link href="/homePage">homePage</Link>
           <Link href="/namePage">namePage</Link>
-          <Link href="/useRouterPage">useRouterPage</Link>
+      
 
         </header>
         {children}
